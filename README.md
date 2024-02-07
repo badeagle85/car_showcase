@@ -1,8 +1,4 @@
-nextjs13 test
-car_showcase
-
-![예시 이미지](public/스크린샷 2024-02-07 23.02.33.png)
-![예시 이미지](public/스크린샷 2024-02-07 23.02.38.png)
+nextjs13 test, car_showcase
 
 
 ## Getting Started
